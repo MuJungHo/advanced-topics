@@ -5,7 +5,7 @@
     * [Promise]
 * [瀏覽器渲染流程](https://www.gushiciku.cn/pl/gpqt/zh-tw)
 * [React vs Vue]
-    * [數據綁定]
+    * [數據綁定](https://www.gushiciku.cn/pl/pKLc/zh-tw)
 * [this]
 * [closure]
 * [事件機制]
