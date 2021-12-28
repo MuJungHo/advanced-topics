@@ -3,8 +3,11 @@
 * [非同步]
     * [async/await]
     * [Promise]
-* [瀏覽器]
-    * [渲染流程](https://www.gushiciku.cn/pl/gpqt/zh-tw)
+* [瀏覽器渲染流程](https://www.gushiciku.cn/pl/gpqt/zh-tw)
+* [React vs Vue]
+    * [數據綁定]
+* [this]
+* [closure]
 * [事件機制]
 * [伺服器渲染]
 * [性能優化]
@@ -16,6 +19,6 @@
     * [UDP]
 * [演算法]
     * [遞迴]
-	* [冒泡排序]
-	* [二分搜尋法]
-	* [鏈結]
+    * [冒泡排序]
+    * [二分搜尋法]
+    * [鏈結]
