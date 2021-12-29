@@ -8,6 +8,7 @@
     * [數據綁定](https://www.gushiciku.cn/pl/pKLc/zh-tw)
 * [this]
 * [closure]
+* [Prototypal Inheritance & OOP]
 * [事件機制]
 * [伺服器渲染]
 * [性能優化]
