@@ -6,22 +6,23 @@
     * this
     * closure
     * Prototypal Inheritance & OOP
-* [瀏覽器渲染流程](https://www.gushiciku.cn/pl/gpqt/zh-tw)
 * [React vs Vue]
     * [數據綁定](https://www.gushiciku.cn/pl/pKLc/zh-tw)
 * [React]
     * 底層相關知識
     * performance
+    * [hook](https://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html)
 * [事件機制]
-    * 傳遞 capture and bubbling
-    * event loop
+    * capture and bubbling
+    * [event loop](https://www.ruanyifeng.com/blog/2013/10/event_loop.html)
     * event delegation
 * [伺服器渲染 SSR]
 * [網路]
-    * websocket | sse | long-polling 
+    * [websocket. vs sse. vs long-polling](https://www.ruanyifeng.com/blog/2017/05/server-sent_events.html)
     * OSI七層協議
     * DNS
     * 網路安全
+    * [瀏覽器渲染流程](https://www.gushiciku.cn/pl/gpqt/zh-tw)
 * [協議]
     * TCP
     * UDP
@@ -31,3 +32,4 @@
     * [冒泡排序]
     * [二分搜尋法]
     * [鏈結]
+[參考來源](https://www.ruanyifeng.com/blog/javascript/)
