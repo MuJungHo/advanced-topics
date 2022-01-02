@@ -18,6 +18,7 @@
     * event delegation
 * [伺服器渲染 SSR]
 * [網路]
+    * websocket | sse | long-polling 
     * OSI七層協議
     * DNS
     * 網路安全
