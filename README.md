@@ -16,6 +16,7 @@
     * capture and bubbling
     * [event loop](https://www.ruanyifeng.com/blog/2013/10/event_loop.html)
     * event delegation
+    * [thread & process](https://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
 * [伺服器渲染 SSR]
 * [網路]
     * [websocket. vs sse. vs long-polling](https://www.ruanyifeng.com/blog/2017/05/server-sent_events.html)
