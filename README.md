@@ -1,7 +1,7 @@
 # Advanced-Topics
 
 * [Javascript]
-    * 非同步
+    * [asynchronous & event loop](https://www.ruanyifeng.com/blog/2013/10/event_loop.html)
     * Promise
     * this
     * closure
@@ -14,7 +14,6 @@
     * [hook](https://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html)
 * [事件機制]
     * capture and bubbling
-    * [event loop](https://www.ruanyifeng.com/blog/2013/10/event_loop.html)
     * event delegation
     * [thread & process](https://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
 * [伺服器渲染 SSR]
