@@ -9,7 +9,7 @@
 * [React vs Vue]
     * [數據綁定](https://www.gushiciku.cn/pl/pKLc/zh-tw)
 * [React]
-    * 底層相關知識
+    * [virtual dom](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/build-a-simple-virtual-dom-5cf12ccf379f)
     * performance
     * [hook](https://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html)
 * [事件機制]
