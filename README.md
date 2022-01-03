@@ -32,4 +32,4 @@
     * [冒泡排序]
     * [二分搜尋法]
     * [鏈結]
-[參考來源](https://www.ruanyifeng.com/blog/javascript/)
+* [參考來源](https://www.ruanyifeng.com/blog/javascript/)
