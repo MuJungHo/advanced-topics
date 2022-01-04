@@ -3,9 +3,9 @@
 * [Javascript]
     * [asynchronous & event loop](https://www.ruanyifeng.com/blog/2013/10/event_loop.html)
     * Promise
+    * throttle & debounce
     * this
     * closure
-    * Prototypal Inheritance & OOP
 * [React vs Vue]
     * [數據綁定](https://www.gushiciku.cn/pl/pKLc/zh-tw)
 * [React]
@@ -16,6 +16,9 @@
     * capture and bubbling
     * event delegation
     * [thread & process](https://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
+* [資安]
+    * [XSS] 
+* [測試]
 * [伺服器渲染 SSR]
 * [網路]
     * [websocket. vs sse. vs long-polling](https://www.ruanyifeng.com/blog/2017/05/server-sent_events.html)
@@ -32,4 +35,5 @@
     * [冒泡排序]
     * [二分搜尋法]
     * [鏈結]
+
 * [參考來源](https://www.ruanyifeng.com/blog/javascript/)
