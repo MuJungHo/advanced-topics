@@ -13,7 +13,7 @@
     * [performance](https://blog.techbridge.cc/2018/01/05/react-render-optimization/)
     * [hook](https://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html)
 * [事件機制]
-    * capture and bubbling
+    * [capture and bubbling](https://blog.techbridge.cc/2017/07/15/javascript-event-propagation/)
     * event delegation
     * [thread & process](https://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
 * [資安]
