@@ -10,7 +10,8 @@
     * [數據綁定](https://www.gushiciku.cn/pl/pKLc/zh-tw)
 * [React]
     * [virtual dom](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/build-a-simple-virtual-dom-5cf12ccf379f)
-    * [performance](https://redux.js.org/faq/performance#how-well-does-redux-scale-in-terms-of-performance-and-architecture)
+    * [performance](https://blog.techbridge.cc/2018/01/05/react-render-optimization/)
+    * [redux performance](https://redux.js.org/faq/performance#how-well-does-redux-scale-in-terms-of-performance-and-architecture)
     * [Normalizing State Shape](https://redux.js.org/usage/structuring-reducers/normalizing-state-shape)
     * [hook](https://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html)
 * [事件機制]
