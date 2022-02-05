@@ -1,7 +1,7 @@
 # Advanced-Topics
 
 * [Javascript]
-    * [asynchronous & event loop](https://www.ruanyifeng.com/blog/2013/10/event_loop.html)
+    * [asynchronous & event loop](https://medium.com/infinitegamer/why-event-loop-exist-e8ac9d287044)
     * [Promise](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise)
     * throttle & debounce
     * this
